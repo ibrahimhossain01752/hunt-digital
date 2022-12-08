@@ -2,6 +2,7 @@
 import './App.css';
 import Card from './components/Home/Card';
 import UpcomingCard from './components/Home/UpcomingCard';
+import Footer from './components/Shared/Footer';
 // import Banner from './components/Home/Banner';
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
      {/* <Banner/> */}
      <Card/>
      <UpcomingCard/>
+     <Footer/>
     </div>
   );
 }
