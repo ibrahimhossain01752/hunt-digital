@@ -15,14 +15,16 @@ const Card = () => {
           <div class="container">
           <div class="card-group">
   <div class="card">
+  <i class="bi bi-heart-fill icon_one"></i>
     <img src={card1} class="card-img-top car_one mx-auto" alt="..."/>
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <h5 class="card-title mx-start head_one">Kia</h5>
+      <i class="bi bi-currency-rupee fw-5"></i>
     </div>
     
   </div>
   <div class="card">
+  <i class="bi bi-heart-fill icon_one"></i>
     <img src={card2} class="card-img-top car_one mx-auto" alt="..."/>
     <div class="card-body">
       <h5 class="card-title">Card title</h5>
@@ -31,6 +33,7 @@ const Card = () => {
     
   </div>
   <div class="card">
+  <i class="bi bi-heart-fill icon_one"></i>
     <img src={card3} class="card-img-top car_one mx-auto" alt="..."/>
     <div class="card-body">
       <h5 class="card-title">Card title</h5>
@@ -41,6 +44,7 @@ const Card = () => {
 </div>
 <div class="card-group">
   <div class="card">
+  <i class="bi bi-heart-fill icon_one"></i>
     <img src={card4} class="card-img-top car_one mx-auto" alt="..."/>
     <div class="card-body">
       <h5 class="card-title">Card title</h5>
@@ -49,6 +53,7 @@ const Card = () => {
    
   </div>
   <div class="card">
+  <i class="bi bi-heart-fill icon_one"></i>
     <img src={card5} class="card-img-top car_one mx-auto" alt="..."/>
     <div class="card-body">
       <h5 class="card-title">Card title</h5>
@@ -57,6 +62,7 @@ const Card = () => {
    
   </div>
   <div class="card">
+  <i class="bi bi-heart-fill icon_one"></i>
     <img src={card6} class="card-img-top car_one mx-auto" alt="..."/>
     <div class="card-body">
       <h5 class="card-title">Card title</h5>
