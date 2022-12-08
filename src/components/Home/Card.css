@@ -15,3 +15,35 @@
 .head_one{
     margin-right: 300px;
 }
+.head_two{
+    margin-right: 215px;
+}
+.head_thr{
+    margin-right: 185px;
+}
+.head_four{
+    margin-right: 225px;
+}
+.head_five{
+    margin-right: 215px;
+}
+.head_six{
+    margin-right: 200px;
+}
+.ruppe{
+    background-color: #B0BABF;
+    margin-right: 310px;
+}
+.star{
+    color:#F8C51B;
+}
+.star_one{
+    color:#D5DADD;
+}
+.ratting{
+    margin-right:245px;
+   
+}
+.display{
+    display: inline-block;
+}

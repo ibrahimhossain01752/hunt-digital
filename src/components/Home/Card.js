@@ -18,8 +18,9 @@ const Card = () => {
   <i class="bi bi-heart-fill icon_one"></i>
     <img src={card1} class="card-img-top car_one mx-auto" alt="..."/>
     <div class="card-body">
-      <h5 class="card-title mx-start head_one">Kia</h5>
-      <i class="bi bi-currency-rupee fw-5"></i>
+      <h6 class="card-title mx-start head_one">Kia</h6>
+      <i class="bi bi-currency-rupee ruppe"></i>
+      <p class="ratting"><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-half star"></i><i class="bi bi-star-fill star_one"></i>243</p>
     </div>
     
   </div>
@@ -27,8 +28,9 @@ const Card = () => {
   <i class="bi bi-heart-fill icon_one"></i>
     <img src={card2} class="card-img-top car_one mx-auto" alt="..."/>
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+      <h6 class="card-title head_two">Toyato Minivan</h6>
+      <i class="bi bi-currency-rupee ruppe"></i>
+      <p class="ratting"><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i>98</p>
     </div>
     
   </div>
@@ -36,8 +38,9 @@ const Card = () => {
   <i class="bi bi-heart-fill icon_one"></i>
     <img src={card3} class="card-img-top car_one mx-auto" alt="..."/>
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+      <h5 class="card-title head_thr">Hyundai Venue</h5>
+       <i class="bi bi-currency-rupee ruppe"></i>
+       <p class="ratting"><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star_one"></i><i class="bi bi-star-fill star_one"></i><i class="bi bi-star-fill star_one"></i>1,002</p>
     </div>
     
   </div>
@@ -47,8 +50,9 @@ const Card = () => {
   <i class="bi bi-heart-fill icon_one"></i>
     <img src={card4} class="card-img-top car_one mx-auto" alt="..."/>
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <h5 class="card-title head_four">Kia Electric </h5>
+      <i class="bi bi-currency-rupee ruppe"></i>
+      <p class="ratting"><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-half star"></i><i class="bi bi-star-fill star_one"></i>243</p>
     </div>
    
   </div>
@@ -56,8 +60,9 @@ const Card = () => {
   <i class="bi bi-heart-fill icon_one"></i>
     <img src={card5} class="card-img-top car_one mx-auto" alt="..."/>
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+      <h5 class="card-title head_five">Maruti swift</h5>
+      <i class="bi bi-currency-rupee ruppe"></i>
+      <p class="ratting"><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i>98</p>
     </div>
    
   </div>
@@ -65,8 +70,9 @@ const Card = () => {
   <i class="bi bi-heart-fill icon_one"></i>
     <img src={card6} class="card-img-top car_one mx-auto" alt="..."/>
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+      <h5 class="card-title head_six">Hyundai Rav4</h5>
+      <i class="bi bi-currency-rupee ruppe"></i>
+      <p class="ratting"><span class="display"><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star_one"></i><i class="bi bi-star-fill star_one"></i><i class="bi bi-star-fill star_one"></i><i class="bi bi-star-fill star_one"></i></span></p>
     </div>
     
   </div>
