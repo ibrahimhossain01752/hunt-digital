@@ -1,11 +1,13 @@
 // import logo from './logo.svg';
 import './App.css';
-import Banner from './components/Home/Banner';
+import Card from './components/Home/Card';
+// import Banner from './components/Home/Banner';
 
 function App() {
   return (
     <div className="App">
-     <Banner/>
+     {/* <Banner/> */}
+     <Card/>
     </div>
   );
 }
