@@ -18,7 +18,7 @@ const UpcomingCard = () => {
     <div class="card-body">
       <h6 class="card-title mx-start head_one">Kia</h6>
       <i class="bi bi-currency-rupee ruppe"></i>
-      <p class="ratting"><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-half star"></i><i class="bi bi-star-fill star_one"></i>243</p>
+      <p class="ratting"><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-half star"></i><i class="bi bi-star-fill star_one"></i></p>
     </div>
     
   </div>
@@ -28,7 +28,7 @@ const UpcomingCard = () => {
     <div class="card-body">
       <h6 class="card-title head_two">Toyato Minivan</h6>
       <i class="bi bi-currency-rupee ruppe"></i>
-      <p class="ratting"><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i>98</p>
+      <p class="ratting"><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i></p>
     </div>
     
   </div>
@@ -38,7 +38,7 @@ const UpcomingCard = () => {
     <div class="card-body">
       <h5 class="card-title head_thr">Hyundai Venue</h5>
        <i class="bi bi-currency-rupee ruppe"></i>
-       <p class="ratting"><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star_one"></i><i class="bi bi-star-fill star_one"></i><i class="bi bi-star-fill star_one"></i>1,002</p>
+       <p class="ratting"><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star_one"></i><i class="bi bi-star-fill star_one"></i><i class="bi bi-star-fill star_one"></i></p>
     </div>
     
   </div>
@@ -50,7 +50,7 @@ const UpcomingCard = () => {
     <div class="card-body">
       <h5 class="card-title head_four">Kia Electric </h5>
       <i class="bi bi-currency-rupee ruppe"></i>
-      <p class="ratting"><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-half star"></i><i class="bi bi-star-fill star_one"></i>243</p>
+      <p class="ratting"><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-half star"></i><i class="bi bi-star-fill star_one"></i></p>
     </div>
    
   </div>
@@ -60,7 +60,7 @@ const UpcomingCard = () => {
     <div class="card-body">
       <h5 class="card-title head_five">Maruti swift</h5>
       <i class="bi bi-currency-rupee ruppe"></i>
-      <p class="ratting"><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i>98</p>
+      <p class="ratting"><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i><i class="bi bi-star-fill star"></i></p>
     </div>
    
   </div>
