@@ -11,16 +11,19 @@ const Banner = () => {
         <div class="carousel-item active bg-1">
           <div class="carousel-caption">
           <h1 class="beauti-title"><span class="colec1">A burning </span> <span class="colec">passion for excellence .</span></h1>
+          <p>Our Technology is designed by experienced designers</p>
             </div>
         </div>
         <div class="carousel-item bg-2">
           <div class="carousel-caption">
           <h1 class="beauti-title"><span class="colec1">A burning </span> <span class="colec">passion for excellence .</span></h1>
+          <p>Our Technology is designed by experienced designers</p>
           </div>
         </div>
         <div class="carousel-item bg-3">
           <div class="carousel-caption">
           <h1 class="beauti-title"><span class="colec1">A burning </span> <span class="colec">passion for excellence .</span></h1>
+          <p>Our Technology is designed by experienced designers</p>
           </div>
         </div>
       </div> 
