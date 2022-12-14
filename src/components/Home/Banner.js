@@ -13,7 +13,7 @@ const Banner = () => {
           <h1 class="beauti-title"><span class="colec1">A burning </span> <span class="colec">passion for excellence .</span></h1>
           <p>Our Technology is designed by experienced designers</p>
           <p>101</p>
-          <p>Latest</p>
+          <p>Latest Technology</p>
             </div>
         </div>
         <div class="carousel-item bg-2">
@@ -21,7 +21,7 @@ const Banner = () => {
           <h1 class="beauti-title"><span class="colec1">A burning </span> <span class="colec">passion for excellence .</span></h1>
           <p>Our Technology is designed by experienced designers</p>
           <p>102</p>
-          <p>Latest</p>
+          <p>Latest Technology</p>
           </div>
         </div>
         <div class="carousel-item bg-3">
@@ -29,7 +29,7 @@ const Banner = () => {
           <h1 class="beauti-title"><span class="colec1">A burning </span> <span class="colec">passion for excellence .</span></h1>
           <p>Our Technology is designed by experienced designers</p>
           <p>103</p>
-          <p>Latest</p>
+          <p>Latest Technology</p>
           </div>
         </div>
       </div> 
