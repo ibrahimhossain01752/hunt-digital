@@ -30,6 +30,7 @@ const Banner = () => {
           <p>Our Technology is designed by experienced designers</p>
           <p>103</p>
           <p>Latest Technology</p>
+          <p>Buy produyu</p>
           </div>
         </div>
       </div> 
